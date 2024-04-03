@@ -11,7 +11,7 @@ import java.util.List;
  *  Maria H * 2/13/2023
  */
 
-public class ElectionTesterV6 {
+public class ElectionTesterV4 {
 	public static void main (String[] args) {
 		List<Candidate> candidate = new ArrayList<Candidate>();
 		candidate.add(new Candidate("Tony Stark", 2691));
